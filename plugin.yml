@@ -1,0 +1,5 @@
+name: Talk
+author: alvin0319
+main: Talk\TalkPlugin
+version: 1.0.0
+api: 4.0.0
